@@ -1,4 +1,4 @@
-#Barret's code
+#Barret Zoph's code
 #! /usr/bin/python
 
 import math
