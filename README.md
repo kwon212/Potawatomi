@@ -7,5 +7,5 @@ The new version uses more accents on vowels compared to the older version.
 This project aims at automating the process of updating the older materials to the new version through different combinations of finite state acceptors and transducers.
 Because of the similarity of Potawatomi accents to French accents and the lack of available Potawatomi resources, all language models were built and trained with French data.
 
-All code is in Python.
+The models were trained using CARMEL and SVM. All code is in Python.
 
